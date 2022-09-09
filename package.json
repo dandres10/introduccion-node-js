@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo Node JS de introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandres10/introduccion-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "Marlon Andres Leon Leon <dandresleon64@gmail.com> (https://github.com/dandres10/introduccion-node-js)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dandres10/introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/dandres10/introduccion-node-js#readme"
+}
