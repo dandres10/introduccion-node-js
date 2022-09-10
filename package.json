@@ -15,7 +15,7 @@
     "nodejs"
   ],
   "author": "Marlon Andres Leon Leon <dandresleon64@gmail.com> (https://github.com/dandres10/introduccion-node-js)",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/dandres10/introduccion-node-js/issues"
   },
